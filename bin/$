@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+echo 'Removing $ from command and executing...'
+"$@"
