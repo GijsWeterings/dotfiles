@@ -1,0 +1,11 @@
+Host queuetud
+  Hostname eipdev.ewi.tudelft.nl
+  User gitlab
+  Port 22
+  ProxyCommand ssh -q bastiontud -W %h:%p
+
+Host bastiontud
+  Hostname student-linux.tudelft.nl
+  User gweterings
+  Port 22
+

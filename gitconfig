@@ -1,0 +1,9 @@
+[user]
+	email = gijsweterings+github@gmail.com
+	name = Gijs Weterings
+[core]
+	editor = vim
+[commit]
+	cleanup = strip
+[push]
+	default = simple
