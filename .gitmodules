@@ -4,3 +4,6 @@
 [submodule "dotbot-apt-get"]
 	path = dotbot-apt-get
 	url = https://github.com/rubenvereecken/dotbot-apt-get
+[submodule "oh-my-zsh"]
+	path = oh-my-zsh
+	url = https://github.com/robbyrussell/oh-my-zsh
